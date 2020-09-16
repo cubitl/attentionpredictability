@@ -1,4 +1,4 @@
-# diss-APP
+# attentionpredictability
 Visual Attention Preference for Intermediate Predictability in Young Children
 Authors: Laura S. Cubit, Rebecca Canale, Rebecca Handsman, Celeste Kidd, Loisa Bennetto
 
